@@ -1,3 +1,3 @@
 # Cloud Client
 
-Update to ReactJS v 18
+Upgrade to ReactJS v18
