@@ -8,10 +8,10 @@
   "runtime~main.js": "/Cloud-Client/static/js/runtime~main.b4f87635.js",
   "runtime~main.js.map": "/Cloud-Client/static/js/runtime~main.b4f87635.js.map",
   "static/media/logo.png": "/Cloud-Client/static/media/logo.2807731e.png",
-  "static/media/style.css": "/Cloud-Client/static/media/Lato-Italic.7582e823.ttf",
-  "static/css/main.11bee660.chunk.css.map": "/Cloud-Client/static/css/main.11bee660.chunk.css.map",
+  "static/media/style.css": "/Cloud-Client/static/media/Lato-Bold.85d339d9.ttf",
   "static/css/1.3e7b20bf.chunk.css.map": "/Cloud-Client/static/css/1.3e7b20bf.chunk.css.map",
+  "static/css/main.11bee660.chunk.css.map": "/Cloud-Client/static/css/main.11bee660.chunk.css.map",
   "index.html": "/Cloud-Client/index.html",
-  "precache-manifest.a7adcca04b16c52aa53436e9c594d670.js": "/Cloud-Client/precache-manifest.a7adcca04b16c52aa53436e9c594d670.js",
+  "precache-manifest.bafec995554328155b4adf1c9f38679a.js": "/Cloud-Client/precache-manifest.bafec995554328155b4adf1c9f38679a.js",
   "service-worker.js": "/Cloud-Client/service-worker.js"
 }
