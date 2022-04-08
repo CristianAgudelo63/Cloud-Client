@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Cloud-Clien/precache-manifest.cb119794b8ced891bcd7acd836e6f0f5.js"
+  "/Cloud-Client/precache-manifest.a7adcca04b16c52aa53436e9c594d670.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Cloud-Clien/index.html", {
+workbox.routing.registerNavigationRoute("/Cloud-Client/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
