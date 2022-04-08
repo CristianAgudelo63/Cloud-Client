@@ -24,6 +24,10 @@ self.__precacheManifest = [
     "url": "/Cloud-Clien/static/media/logo.2807731e.png"
   },
   {
+    "revision": "3ed9575dcc488c3e3a5bd66620bdf5a4",
+    "url": "/Cloud-Clien/static/media/OpenSans-Regular.3ed9575d.ttf"
+  },
+  {
     "revision": "9ece5b48963bbc96309220952cda38aa",
     "url": "/Cloud-Clien/static/media/Roboto-Bold.9ece5b48.ttf"
   },
@@ -40,20 +44,16 @@ self.__precacheManifest = [
     "url": "/Cloud-Clien/static/media/OpenSans-Bold.1025a6e0.ttf"
   },
   {
-    "revision": "3ed9575dcc488c3e3a5bd66620bdf5a4",
-    "url": "/Cloud-Clien/static/media/OpenSans-Regular.3ed9575d.ttf"
-  },
-  {
-    "revision": "f6238deb7f40a7a03134c11fb63ad387",
-    "url": "/Cloud-Clien/static/media/OpenSans-Italic.f6238deb.ttf"
-  },
-  {
     "revision": "85d339d916479f729938d2911b85bf1f",
     "url": "/Cloud-Clien/static/media/Lato-Bold.85d339d9.ttf"
   },
   {
     "revision": "2d36b1a925432bae7f3c53a340868c6e",
     "url": "/Cloud-Clien/static/media/Lato-Regular.2d36b1a9.ttf"
+  },
+  {
+    "revision": "f6238deb7f40a7a03134c11fb63ad387",
+    "url": "/Cloud-Clien/static/media/OpenSans-Italic.f6238deb.ttf"
   },
   {
     "revision": "7582e823ef0d702969ea0cce9afb326d",
