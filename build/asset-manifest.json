@@ -1,17 +1,23 @@
 {
-  "main.css": "/Cloud-Client/static/css/main.11bee660.chunk.css",
-  "main.js": "/Cloud-Client/static/js/main.0500fe5d.chunk.js",
-  "main.js.map": "/Cloud-Client/static/js/main.0500fe5d.chunk.js.map",
-  "static/css/1.3e7b20bf.chunk.css": "/Cloud-Client/static/css/1.3e7b20bf.chunk.css",
-  "static/js/1.db43b4eb.chunk.js": "/Cloud-Client/static/js/1.db43b4eb.chunk.js",
-  "static/js/1.db43b4eb.chunk.js.map": "/Cloud-Client/static/js/1.db43b4eb.chunk.js.map",
-  "runtime~main.js": "/Cloud-Client/static/js/runtime~main.b4f87635.js",
-  "runtime~main.js.map": "/Cloud-Client/static/js/runtime~main.b4f87635.js.map",
-  "static/media/logo.png": "/Cloud-Client/static/media/logo.2807731e.png",
-  "static/media/style.css": "/Cloud-Client/static/media/Lato-Italic.7582e823.ttf",
-  "static/css/main.11bee660.chunk.css.map": "/Cloud-Client/static/css/main.11bee660.chunk.css.map",
-  "static/css/1.3e7b20bf.chunk.css.map": "/Cloud-Client/static/css/1.3e7b20bf.chunk.css.map",
-  "index.html": "/Cloud-Client/index.html",
-  "precache-manifest.a7adcca04b16c52aa53436e9c594d670.js": "/Cloud-Client/precache-manifest.a7adcca04b16c52aa53436e9c594d670.js",
-  "service-worker.js": "/Cloud-Client/service-worker.js"
+  "files": {
+    "main.css": "/Cloud-Client/static/css/main.96f9c845.css",
+    "main.js": "/Cloud-Client/static/js/main.8425dc12.js",
+    "static/media/Roboto-Italic.ttf": "/Cloud-Client/static/media/Roboto-Italic.beb7fe13e61b9e683c37.ttf",
+    "static/media/Roboto-Regular.ttf": "/Cloud-Client/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
+    "static/media/Roboto-Bold.ttf": "/Cloud-Client/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
+    "static/media/OpenSans-Bold.ttf": "/Cloud-Client/static/media/OpenSans-Bold.dbb97fd982ce1b96b6de.ttf",
+    "static/media/OpenSans-Regular.ttf": "/Cloud-Client/static/media/OpenSans-Regular.1b0809d519837cb7aad3.ttf",
+    "static/media/OpenSans-Italic.ttf": "/Cloud-Client/static/media/OpenSans-Italic.20653d2fac6285bf4dea.ttf",
+    "static/media/Lato-Italic.ttf": "/Cloud-Client/static/media/Lato-Italic.0b4ed00316a7940bfc3f.ttf",
+    "static/media/Lato-Regular.ttf": "/Cloud-Client/static/media/Lato-Regular.9919edff6283018571ad.ttf",
+    "static/media/Lato-Bold.ttf": "/Cloud-Client/static/media/Lato-Bold.5dd5aa0269395f0ea927.ttf",
+    "static/media/logo.png": "/Cloud-Client/static/media/logo.fc9fe77c2da5e0853710.png",
+    "index.html": "/Cloud-Client/index.html",
+    "main.96f9c845.css.map": "/Cloud-Client/static/css/main.96f9c845.css.map",
+    "main.8425dc12.js.map": "/Cloud-Client/static/js/main.8425dc12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96f9c845.css",
+    "static/js/main.8425dc12.js"
+  ]
 }
