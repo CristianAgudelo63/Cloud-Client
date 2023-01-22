@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Cloud-Client/static/css/main.1b2d4363.css",
+    "main.js": "/Cloud-Client/static/js/main.6b5e02a1.js",
+    "static/media/logo.png": "/Cloud-Client/static/media/logo.fc9fe77c2da5e0853710.png",
+    "index.html": "/Cloud-Client/index.html",
+    "main.1b2d4363.css.map": "/Cloud-Client/static/css/main.1b2d4363.css.map",
+    "main.6b5e02a1.js.map": "/Cloud-Client/static/js/main.6b5e02a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b2d4363.css",
+    "static/js/main.6b5e02a1.js"
+  ]
+}
