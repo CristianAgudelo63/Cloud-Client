@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto:wght@400;700&display=swap');
+
+/* Variables CSS */
+
+:root {
+  /* Fondos */
+  --fondoPrimario: linear-gradient(180deg, #0099ff, #12385f);
+  --fondoPrimarioPersonalizadoA: linear-gradient(
+    120deg,
+    #f6d365 0%,
+    #fda085 100%
+  );
+  --fondoPrimarioPersonalizadoB: linear-gradient(
+    120deg,
+    #fccb90 0%,
+    #d57eeb 100%
+  );
+  --fondoPrimarioPersonalizadoC: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 112, 1) 0%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  --fondoPrimarioPersonalizadoD: rgb(21, 32, 43);
+  --fondoSegundario: rgba(255, 255, 255, 0.6);
+
+  /* Textos */
+  --fuenteTexto: 'Montserrat', sans-serif;
+  --tamañoFuenteTexto: 16px;
+  --tamañoFuenteTitulo: 30px;
+  --anchoFuenteTitulo: 300px;
+
+  /* Botones */
+  --fondoBoton: #3686e6;
+  --fondoBotonSegundario: transparent;
+  --colorTextoBoton: #fff;
+  --bordeBoton: 1px solid #3686e6;
+  --bordeRedondeadoBoton: 25px;
+  --fuenteBoton: 'Roboto', sans-serif;
+  --fuenteBotonActivo: 700;
+  --tamañoFuenteBoton: 16px;
+  --anchoFuenteBoton: 400;
+  --anchoBoton: 20%;
+  --altoBoton: 40px;
+  --cursor: pointer;
+
+  /* Inputs */
+  --fuenteInput: 'Montserrat', sans-serif;;
+  --bordeInput: 2px solid #0099ff;
+  --altoInput: 40px;
+}
+
+/* Generales */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  background: var(--fondoSegundario);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #202124;
+  border-radius: 10px;
+  border: 1px solid #fff;
+}
+
+html {
+  font-family: var(--fuenteTexto);
+  font-size: var(--tamañoFuenteTexto);
+}
+
+body {
+  overflow: hidden;
+  background: var(--fondoPrimario);
+  height: 100vh;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+/* Textos */
+
+.titulo {
+  font-family: var(--fuenteTexto);
+  font-size: var(--tamañoFuenteTitulo);
+  font-weight: var(--anchoFuenteTitulo);
+}
+
+.texto {
+  font-family: var(--fuenteTexto);
+  font-size: var(--tamañoFuenteTexto);
+}
+
+/* Botones */
+
+.btn {
+  font-family: var(--fuenteBoton);
+  font-weight: var(--tamañoFuenteBoton);
+  font-size: var(--anchoFuenteBoton);
+  border-radius: var(--bordeRedondeadoBoton);
+  width: var(--anchoBoton);
+  height: var(--altoBoton);
+  cursor: var(--cursor);
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  padding: 0px 10px 0px 10px;
+  margin: 5px 0px 5px 0px;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btnPrimario {
+  background: var(--fondoBoton);
+  color: var(--colorTextoBoton);
+  border: none;
+  margin: 10px auto;
+}
+
+.btnSegundario {
+  background: var(--fondoBotonSegundario);
+  color: var(--fondoBoton);
+  border: var(--bordeBoton);
+  margin: 10px auto;
+}
+
+/* Inputs */
+
+.input {
+  font-family: var(--fuenteInput);
+  font-size: var(--tamañoFuenteTexto);
+  border: var(--bordeInput);
+  height: var(--altoInput);
+  outline: none;
+}
+
+.label {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  font-family: var(--fuenteTexto);
+  font-size: 20px;
+  color: #202124;
+  margin-bottom: 5px;
+}
